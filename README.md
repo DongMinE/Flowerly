@@ -1,6 +1,6 @@
 # 💐 당신을 위한 하나뿐인 꽃다발, 플리
 
-![readmeBg2](/uploads/55bb2cdf283b2460ed13d7c4fbe360a7/readmeBg2.png)
+![readmeBg2](https://github.com/sujeong1201/FLLY/assets/37768793/1eb894db-29c4-49b5-bfd0-b4a5030c1db2)
 
 ## 목차
 
